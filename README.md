@@ -10,6 +10,8 @@
 <br /><br />
 <hr />
 <br />
+This script is used to bypass DLL Hooking using a fresh mapped copy of ntdll file, patch the ETW and trigger a shellcode with process hollowing
+<br /><br />
 Stolen from :<br />
 <br />
 - <a href="https://github.com/TheD1rkMtr">https://github.com/TheD1rkMtr</a><br />
